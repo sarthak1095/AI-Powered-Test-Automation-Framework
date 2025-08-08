@@ -1,13 +1,6 @@
 # AI-Powered-Test-Automation-Framework
 A scalable, AI-powered test automation framework combining Python, Behave BDD, and Playwright — enhanced with Generative AI tools like ChatGPT and OpenAI API to create, refine, and optimize test scenarios. Includes UI &amp; API test automation, CI/CD integration with Jenkins, Allure reporting, and secure QA practices.
 
-
-Sure! Here’s a technical yet clear README.md draft for your **AI Powered Test Automation Framework** repo based on all the info you provided:
-
----
-
-# AI Powered Test Automation Framework
-
 ## Overview
 
 This repository contains an AI-powered Behavior-Driven Development (BDD) test automation framework built with **Python**, **Behave**, and **Playwright**. The framework leverages OpenAI’s language models to **automatically generate Gherkin scenarios** and test code, enabling faster and smarter test creation. It supports both **UI automation** and **API testing**, with integrated reporting via **Allure**.
@@ -178,11 +171,3 @@ Feel free to open issues or submit pull requests to improve the framework. Contr
 * Enhancing reporting and logging.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-If you want me to help with adding badges, setup instructions for CI/CD, or any other section, just say!
